@@ -45,8 +45,31 @@ Glossaries: Reference documents are included to clarify dataset column definitio
 
 ## Relevant results & findings 
 
+Figure 1: Top 10 Source Countries for Bolivian Imports (2020–2024)
+The data confirms a clear trend: China dominates Bolivia’s imports, ranking first in both total trade value (FOB) and volume (kg).
 
+Notable Observations:
 
+Argentina: High import volume but low value, suggesting low-cost goods (e.g., consumer staples, raw materials, or high-demand electronics components).
+
+Japan/Germany: Low volume but high value, indicative of premium products (e.g., medical equipment, specialty chemicals, branded goods, or critical electronic components).
+
+![Figure 1](images/top_10_countries.png)
+
+Figure 2: Heatmap of Annual Import Share by Country
+A normalized scale (0–1) reflects each country’s relative contribution over the 5-year period:
+
+Darker shades = Highest share (e.g., China at 1).
+
+Lighter shades = Declining participation (closer to 0).
+
+Implication: China’s consistent dominance underscores Bolivia’s import dependency, while niche players (e.g., Germany) occupy high-value niches.
+
+![Figure 2](images/heat_map.png)
+
+![Figure 3](images/monthly_trends.png)
+![Figure 4](images/diesel_by_FOB_ch.png)
+![Figure 5](images/diesel_by_weight_ch.png)
 
 ## Conclusions and scope for the future
 
