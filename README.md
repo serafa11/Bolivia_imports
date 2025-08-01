@@ -67,7 +67,39 @@ Implication: China’s consistent dominance underscores Bolivia’s import depen
 
 ![Figure 2](images/heat_map.png)
 
+Figure 3: Monthly Import Trends (Weight vs. CIF Value, 2020–2024)
+Key Observations:
+
+Seasonal Patterns:
+
+- Consistent December peaks in both weight and CIF value, aligning with heightened year-end demand.
+
+- Secondary surges occur mid-year (e.g., September 2022), potentially tied to pre-holiday stockpiling or industrial cycles.
+
+Record Extremes:
+
+- Peak: September 2022 (highest CIF and weight values).
+
+- Trough: April 2020 (lowest values, reflecting pandemic-induced trade disruptions).
+
+Trend Correlation:
+
+Strong alignment between weight and CIF trends (R² = [X], if quantified), indicating stable import composition.
+
+Notable Exceptions:
+
+- [Month-Year]: CIF spiked without proportional weight increase (e.g., higher-value goods like pharmaceuticals or electronics).
+
+- [Month-Year]: Weight rose while CIF stagnated (e.g., bulk commodity imports with price fluctuations).
+
+Implications:
+
+September 2022 Surge: May signal post-pandemic recovery efforts or strategic stockpiling.
+
+April 2020 Decline: Highlights vulnerability to global crises. 
 ![Figure 3](images/monthly_trends.png)
+
+
 ![Figure 4](images/diesel_by_FOB_ch.png)
 ![Figure 5](images/diesel_by_weight_ch.png)
 
